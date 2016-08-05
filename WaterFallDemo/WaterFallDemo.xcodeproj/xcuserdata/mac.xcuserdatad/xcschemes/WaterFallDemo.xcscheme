@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "04E117CD1D1D166A00E454ED"
-               BuildableName = "My001GitHub.app"
-               BlueprintName = "My001GitHub"
-               ReferencedContainer = "container:My001GitHub.xcodeproj">
+               BlueprintIdentifier = "048B5ED81D1D667400F7828E"
+               BuildableName = "WaterFallDemo.app"
+               BlueprintName = "WaterFallDemo"
+               ReferencedContainer = "container:WaterFallDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "04E117CD1D1D166A00E454ED"
-            BuildableName = "My001GitHub.app"
-            BlueprintName = "My001GitHub"
-            ReferencedContainer = "container:My001GitHub.xcodeproj">
+            BlueprintIdentifier = "048B5ED81D1D667400F7828E"
+            BuildableName = "WaterFallDemo.app"
+            BlueprintName = "WaterFallDemo"
+            ReferencedContainer = "container:WaterFallDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "04E117CD1D1D166A00E454ED"
-            BuildableName = "My001GitHub.app"
-            BlueprintName = "My001GitHub"
-            ReferencedContainer = "container:My001GitHub.xcodeproj">
+            BlueprintIdentifier = "048B5ED81D1D667400F7828E"
+            BuildableName = "WaterFallDemo.app"
+            BlueprintName = "WaterFallDemo"
+            ReferencedContainer = "container:WaterFallDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "04E117CD1D1D166A00E454ED"
-            BuildableName = "My001GitHub.app"
-            BlueprintName = "My001GitHub"
-            ReferencedContainer = "container:My001GitHub.xcodeproj">
+            BlueprintIdentifier = "048B5ED81D1D667400F7828E"
+            BuildableName = "WaterFallDemo.app"
+            BlueprintName = "WaterFallDemo"
+            ReferencedContainer = "container:WaterFallDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

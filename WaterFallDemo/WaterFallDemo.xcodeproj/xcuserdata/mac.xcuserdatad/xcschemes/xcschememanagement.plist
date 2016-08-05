@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>My001GitHub.xcscheme</key>
+		<key>WaterFallDemo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>04E117CD1D1D166A00E454ED</key>
+		<key>048B5ED81D1D667400F7828E</key>
 		<dict>
 			<key>primary</key>
 			<true/>

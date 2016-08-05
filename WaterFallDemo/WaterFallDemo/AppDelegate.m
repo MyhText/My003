@@ -1,24 +1,14 @@
 //
 //  AppDelegate.m
-//  My001GitHub
+//  WaterFallDemo
 //
 //  Created by Mac on 16/6/24.
-//  Copyright © 2016年 Myh. All rights reserved.
+//  Copyright © 2016年 Lukas. All rights reserved.
 //
 
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
-
-{
-    int a;
-    int b;
-    
-    
-    
-
-
-}
 
 @end
 
